@@ -27,3 +27,6 @@ title: Flutter Interview Questions
 * How would you access `StatefulWidget` properties from its State?
 * Is there a suggested limit to the number of `FloatingActionButton`s a screen can have? Give a reason(s) for your answer
 * Mention two or more operations that would require you to use or return a Future.
+* What is the `event loop`, and what is its relationship to `isolates`?
+* How do you talk to native code from within a Flutter app?
+* What types of tests can you perform?
